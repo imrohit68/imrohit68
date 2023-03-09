@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/imrohit68" target="blank"><img src="https://img.shields.io/twitter/follow/imrohit68?logo=twitter&style=for-the-badge" alt="imrohit68" /></a> </p>
 
-- 🌱 I’m currently learning **Android development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
